@@ -1,0 +1,37 @@
+.container {
+    margin: 0;
+}
+
+.header {
+    height: 300px;
+}
+
+.img {
+    width: 300px;
+    border-top-right-radius: 10%;
+    border-top-left-radius: 10%;
+}
+
+.bio {
+    background-color: #1A1B21;
+    padding-bottom: 32px;
+    padding-top: 20px;
+}
+
+.name {
+    margin: 0;
+    font-size: 25px;
+    color: turquoise;
+}
+.job {
+    margin: 0;
+    color: #f47d27;
+    padding-top: 10px;
+    font-size: 16px;
+  }
+
+  .site {
+    margin: 0;
+    padding-top: 10px;
+    color: #F3BF99;
+  }
